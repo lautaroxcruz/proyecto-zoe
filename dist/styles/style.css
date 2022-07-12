@@ -303,5 +303,11 @@ wrapper {
 
   /* */
 
-  /* formulario de contacto */ 
+ .contenedor {
+	display: flexbox;
+	justify-content: center;
+	align-items: center;
+	width: 350px;
+	height: 450px;
+ }
   
